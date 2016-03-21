@@ -43,7 +43,7 @@ nav ul
 nav ul li
 {
     float: left;
-    padding: auto 2em;
+    padding: auto;
 }
 
 nav ul li:hover
